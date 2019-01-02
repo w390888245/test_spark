@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.wyx</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>test_code</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>test_spark</name>
+	<name>test_code</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
